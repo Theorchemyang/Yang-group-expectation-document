@@ -98,8 +98,9 @@ New members should gradually become comfortable with:
 * Version control, particularly Git.
 * Data analysis and scientific visualization.
 * Writing clear documentation and reproducible computational workflows.
+* AI assisted project development
 
-It is normal to enter the group without mastering all these skills. What matters is a willingness to learn and to seek help when necessary.
+It is normal to enter the group without mastering these skills. What matters is a willingness to learn and to seek help when necessary.
 
 ## 3.3 Initial Research Period
 
@@ -111,7 +112,7 @@ During the first several months, new members will generally:
 * Become familiar with the relevant software and group code.
 * Develop an initial research plan with Yang and other project mentors.
 
-The pace of this process will differ among individuals. Members should not compare themselves excessively with others, particularly during the early stages of training.
+The pace of this process will differ among individuals. Members should not compare themselves excessively with others.
 
 ---
 
@@ -121,7 +122,7 @@ The pace of this process will differ among individuals. Members should not compa
 
 Graduate students may be supported through teaching assistantships, research assistantships, fellowships, or combinations of these sources. The group currently receives research support from programs including the NSF CAREER program, NSF CSSI Elements, and DOE SciDAC.
 
-Appointment decisions depend on available funding, grant requirements, project alignment, departmental teaching needs, and the student’s training and professional-development needs. A TA or RA appointment is not a measure of a student’s importance or scientific ability.
+Appointment decisions depend on available funding, grant requirements, project alignment, departmental teaching needs, and the student’s training and professional-development needs. A TA or RA appointment is not a measure of a student’s scientific ability.
 
 Teaching is an important part of graduate education and provides valuable experience in communication, leadership, and fundamental chemistry. At the same time, Yang will make reasonable efforts to provide RA support when appropriate funding is available so that students have sufficient time to focus on research.
 
@@ -129,7 +130,7 @@ Students supported on research grants are expected to make appropriate progress 
 
 ## 4.2 General Research Expectations
 
-Research progress is not measured simply by the number of hours spent in the office. Focused and thoughtful work is more valuable than long but unproductive hours. Nevertheless, successful theoretical research requires sustained effort, regular communication, and intellectual engagement.
+Research progress is not measured simply by the number of hours spent in the office. Focused and thoughtful work is more valuable than long but unproductive hours. Nevertheless, successful theoretical research requires sustained effort, regular communication and discussion, and intellectual engagement.
 
 Group members are expected to:
 
@@ -137,9 +138,10 @@ Group members are expected to:
 * Maintain steady and visible progress.
 * Understand the theory and assumptions behind their calculations.
 * Read the relevant literature continuously.
-* Keep careful records of calculations, code changes, and scientific decisions.
+* Keep careful and faithful records of calculations, code changes, and scientific decisions.
 * Analyze unexpected or negative results rather than hiding them.
 * Ask for help before a problem causes an extended loss of time.
+* Be optimistic when facing challenges and problems.
 * Respond constructively to feedback.
 * Gradually become more independent in identifying problems and proposing solutions.
 
@@ -172,27 +174,28 @@ Members who already have stronger preparation should remain humble and help crea
 
 ## 4.5 Meetings and Discussions with Yang
 
-Discussion is essential to theoretical research. Group members are encouraged to speak with Yang frequently rather than waiting until a problem becomes serious.
+Yang is a strong beleiver that discussion is essential to theoretical research. Group members are encouraged to speak with Yang frequently rather than waiting until a problem becomes serious.
 
 Regular individual research meetings will be arranged based on the member’s project and stage of training. In addition, Yang will often visit the group offices for informal discussions.
 
-When Yang’s office door is open and no meeting is in progress, group members are generally welcome to stop by. For discussions requiring substantial time, scheduling a meeting may be more effective.
+When Yang’s office door is open and no meeting is in progress, group members are ALWAYS welcome to stop by, although for discussions requiring substantial time, scheduling a meeting may be more effective.
 
 Research updates should normally cover:
 
+* Brief review of the previous background and discussions,
 * What has been accomplished since the previous discussion.
 * Important results and how they were interpreted.
 * Problems or uncertainties that have arisen.
 * Proposed solutions or alternative directions.
-* Concrete next steps.
+* Finish with concrete next steps.
 
-Brief written summaries, slides, figures, or notes are often helpful. Yang may not remember every detail from previous discussions, particularly when several projects are active. Maintaining shared notes and sending concise written follow-ups will help preserve continuity and reduce misunderstandings.
+Brief written summaries, slides, figures, or notes are often helpful. Yang can not remember every detail from previous discussions, particularly since many projects are active in the group. Maintaining shared notes and sending concise written follow-ups will help preserve continuity and reduce misunderstandings.
 
-Members should approach scientific discussions with optimism, honesty, and an open mind. Disagreement about scientific questions is normal and often productive. Criticism should focus on the work and ideas, not the individual.
+Members should approach scientific discussions with **optimism, honesty, and an open mind**. Disagreement about scientific questions is normal and often productive. However, criticism should focus on the work and ideas, not the individual.
 
 ## 4.6 Group Meetings
 
-Attendance at scheduled group meetings is expected unless a member has a class, teaching responsibility, approved absence, illness, or another unavoidable conflict.
+Attendance at scheduled group meetings is required unless a member has a class, teaching responsibility, approved absence, illness, or another unavoidable conflict.
 
 Members should:
 
@@ -211,7 +214,9 @@ Postdoctoral researchers and senior graduate students may be asked to help mento
 
 Mentors should guide rather than simply provide answers or perform another person’s work. Mentees remain responsible for understanding their projects and should acknowledge the contributions of those who help them.
 
-Mentoring is a group contribution and will be considered when evaluating professional development, authorship, and readiness for future leadership roles. However, the primary responsibility for supervision remains with Yang, and junior members should always feel free to approach him directly.
+Mentoring is a group contribution and will be considered when evaluating professional development, authorship, and readiness for future leadership roles.
+
+Yang holds the primary responsibility for supervision, and junior members should always feel free and welcome to approach him directly.
 
 ## 4.8 Collaboration
 
@@ -225,6 +230,7 @@ Group members should:
 * Avoid sharing unpublished results outside the collaboration without permission.
 * Credit all intellectual and technical contributions appropriately.
 * Make reasonable efforts to use tools and file formats accessible to collaborators.
+* Respect and be patient with collaborators, who may have limited knowledge in theory and computation.
 
 LaTeX may be convenient for theoretical work, but not all collaborators use it. When collaborators prefer Microsoft Word or another format, group members should accommodate them rather than imposing LaTeX.
 
@@ -232,7 +238,7 @@ Authorship and author order should reflect actual contributions and should be di
 
 ## 4.9 Code, Data, and Reproducibility
 
-Research products created in the group should be organized so that another qualified group member can understand and reproduce the work.
+Research products created in the group should be organized and well documented and archived so that another qualified group member can understand and reproduce the work.
 
 Members are expected to:
 
@@ -244,24 +250,23 @@ Members are expected to:
 * Avoid keeping the only copy of important code or data on a personal computer.
 * Follow licensing, confidentiality, and data-management requirements.
 
-Before leaving the group, members must ensure that their code, data, documentation, and project history are transferred in an organized and usable form.
+Before leaving the group, members must ensure that their code, data, documentation, and project history are transferred in an organized and usable form. We currently use ResearchDrived provided by UW-Madison to store most of the data.
 
 ## 4.10 Research Integrity in Practice and Use of AI Tools
 
 The principles in Section 2 apply to every stage of research, including calculations, coding, data analysis, figure preparation, manuscript writing, peer review, and communication with collaborators.
 
-Members must preserve original data and maintain sufficient records to explain how reported results were obtained. Data or figures may be processed to improve clarity, but processing must not distort the scientific meaning of the results. Important methodological choices, uncertainties, and limitations should be disclosed.
+Members must preserve original data and maintain sufficient records to explain how reported results were obtained. Data or figures may be processed to improve clarity, but processing must not distort the scientific meaning of the results. Important methodological choices, uncertainties, and limitations should be fully disclosed.
 
 Members should not omit calculations simply because they contradict a desired conclusion. When a result appears unusually favorable, it should be checked especially carefully.
 
-Generative AI and related tools may be useful for language editing, coding assistance, brainstorming, or organizing information. However:
+Generative AI and related tools are very useful for language editing, coding assistance, brainstorming, or organizing information. However:
 
 * The researcher remains responsible for the correctness of all content.
 * AI-generated scientific statements, references, equations, and code must be independently checked.
 * Confidential manuscripts, proposals, unpublished collaborator data, or restricted information should not be uploaded to unauthorized systems.
 * AI tools should not replace the researcher’s own understanding or analysis.
 * AI-generated text should not be represented as evidence of scientific understanding.
-* The use of AI tools should be disclosed when required by a journal, funding agency, course, collaborator, or University policy.
 
 When uncertain, members should discuss the proposed use of an AI tool with Yang.
 
@@ -286,15 +291,14 @@ As a general group practice:
 * University-observed legal holidays will be respected according to the rules applicable to each appointment.
 * Spring recess is not automatically a group vacation, although members may request time off during this period.
 
-These group practices do not create additional paid leave beyond what is available under the member’s appointment. Members should record formal leave when required.
+Members should record formal leave when required.
 
 ## 5.3 Vacation and Extended Travel
 
-Members should discuss ordinary vacation plans as early as reasonably possible. Longer absences require additional planning, especially when experiments, software releases, paper deadlines, teaching duties, or collaborative projects are active.
+Members should discuss ordinary vacation plans as early as reasonably possible. Longer absences require additional planning, especially when paper deadlines, teaching duties, or collaborative projects are active.
 
-Extended home visits may be possible for international students and postdoctoral researchers. Such visits should normally be discussed several months in advance and must be consistent with University leave policies, appointment obligations, visa requirements, research progress, and available funding.
+Extended home visits may be possible for international students and postdoctoral researchers. Such visits should normally be discussed several months in advance and must be consistent with University leave policies, appointment obligations, visa requirements, research progress, and available funding. In general, you can save your holiday and vacation time. For every 30 days saved, you will be allowed a home-visiting vacation of as long as ~6 weeks. 
 
-Rather than informally “banking” group vacation days, members should follow the official leave and time-off rules associated with their appointments.
 
 ## 5.4 Illness, Family Needs, and Emergencies
 
@@ -317,7 +321,7 @@ Conference plans should normally be made at least six months in advance. Members
 * Apply for departmental, Graduate School, conference, and professional-society travel awards.
 * Use reasonable and economical travel arrangements.
 * Follow all University travel and reimbursement requirements.
-* Prepare presentations carefully and practice them in advance.
+* Prepare presentations carefully and practice them at least two weeks in advance.
 * Represent the group and UW–Madison professionally.
 
 Conference support is not determined solely by whether a student is currently appointed as a TA or RA. Funding decisions will consider the scientific purpose of the trip, available resources, and equitable opportunities across the group.
@@ -341,6 +345,8 @@ The primary student or postdoctoral researcher on a project is normally expected
 
 All coauthors should have a reasonable opportunity to review a manuscript before submission. Comments should be addressed carefully, and major disagreements should be discussed openly.
 
+For better track changes and making comments, we will use either LaTex-like Lyx or Microsoft Word for drafting and editing papers. Papers should be shared via onedrive so that all coauthors have direct access and back-and-forth email is avoided. Naming convention follows "ManuscriptName_version_InitialofEditor".
+
 Members should not delay writing until every possible calculation has been completed. Writing often reveals gaps in reasoning and should be considered part of the research process.
 
 ---
@@ -360,7 +366,7 @@ Progress should be evaluated through the total development of the student, inclu
 * Collaboration and mentoring.
 * Completion of program requirements.
 
-Students and Yang should discuss long-term goals and professional development regularly. As students advance, they should take increasing responsibility for defining research questions, planning projects, and making scientific decisions.
+Students and Yang should discuss long-term goals and professional development at least once every year.
 
 ## 8.2 General Graduation Expectations
 
@@ -374,7 +380,7 @@ A graduate student will normally be ready to graduate after:
 * Organizing and transferring relevant code, data, documentation, and unfinished project materials.
 * Helping train another group member to continue an ongoing project when appropriate.
 
-As a general benchmark, students should aim to have approximately three substantial first-author or co-first-author manuscripts published, accepted, submitted, or close to submission by the time of graduation. This is a guideline rather than an automatic or inflexible rule.
+As a general benchmark, students should aim to have approximately **three substantial first-author or co-first-author manuscripts published, accepted, submitted, or close to submission by the time of graduation**. This is a guideline rather than an automatic or inflexible rule.
 
 The appropriate publication record will depend on the scientific scope and difficulty of the projects, the student’s contributions, the quality and completeness of the work, collaboration timelines, and circumstances outside the student’s control. Three papers do not automatically guarantee graduation, and fewer than three papers do not automatically prevent it.
 
@@ -396,7 +402,7 @@ In addition to conducting high-quality research, postdoctoral researchers should
 * Develop software and research products that remain usable after their departure.
 * Work with Yang on an appropriate career-development plan.
 
-The group will support reasonable professional-development activities, including conference participation, job applications, proposal writing, networking, and preparation for academic or nonacademic careers.
+Yang will strive to support reasonable professional-development activities, including conference participation, job applications, proposal writing, networking, and preparation for academic or nonacademic careers.
 
 ---
 
@@ -408,7 +414,7 @@ Group members should:
 
 * Treat others professionally regardless of seniority, background, identity, or research experience.
 * Give credit generously and accurately.
-* Avoid gossip, personal attacks, intimidation, or dismissive behavior.
+* Avoid personal attacks, intimidation, or dismissive behavior.
 * Respect reasonable personal boundaries and working differences.
 * Provide criticism constructively.
 * Admit mistakes and correct them promptly.
@@ -425,7 +431,7 @@ Concerns about group interactions, mentoring, workload, research conduct, or per
 
 ## 11.1 Switching Research Groups
 
-A student who concludes that the group is not a good fit, or who develops substantially different research interests, should speak with Yang directly.
+A student who concludes that the group is not a good fit, or who develops substantially different research interests, should feel free to speak with Yang directly.
 
 Different research groups have different scientific focuses, mentoring styles, and cultures. A student may not thrive in one environment but may succeed very well in another. Switching groups should not be treated as a personal failure.
 
@@ -444,4 +450,6 @@ Before graduating or otherwise leaving, members should:
 
 Members who have left the group remain entitled to appropriate recognition for their contributions. They are also expected to remain reasonably responsive when their assistance is needed to complete papers arising from their work.
 
-The group hopes to maintain positive long-term relationships with its alumni and to continue supporting their professional development after they leave.
+The group hopes to maintain positive long-term relationships with its alumni and to continue supporting their professional development after they leave. As funding agencies often require the information of past group members, group members are expected to communicate with Yang about any job position change. Yang will be happy to see your progress.
+
+If you have any question about this document, feel free to discuss with Yang or speak up in the group meeting. This document can be modified and developed with reasonable discussions and approved by Yang.
