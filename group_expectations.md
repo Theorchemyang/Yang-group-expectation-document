@@ -98,7 +98,7 @@ New members should gradually become comfortable with:
 * Version control, particularly Git.
 * Data analysis and scientific visualization.
 * Writing clear documentation and reproducible computational workflows.
-* AI assisted project development
+* Responsible use of AI-assisted tools for project development.
 
 It is normal to enter the group without mastering these skills. What matters is a willingness to learn and to seek help when necessary.
 
@@ -174,22 +174,22 @@ Members who already have stronger preparation should remain humble and help crea
 
 ## 4.5 Meetings and Discussions with Yang
 
-Yang is a strong beleiver that discussion is essential to theoretical research. Group members are encouraged to speak with Yang frequently rather than waiting until a problem becomes serious.
+Yang strongly believes that discussion is essential to theoretical research. Group members are encouraged to speak with Yang frequently rather than waiting until a problem becomes serious.
 
 Regular individual research meetings will be arranged based on the member’s project and stage of training. In addition, Yang will often visit the group offices for informal discussions.
 
-When Yang’s office door is open and no meeting is in progress, group members are ALWAYS welcome to stop by, although for discussions requiring substantial time, scheduling a meeting may be more effective.
+When Yang’s office door is open and no meeting is in progress, group members are always welcome to stop by. For discussions requiring substantial time, scheduling a meeting may be more effective.
 
 Research updates should normally cover:
 
-* Brief review of the previous background and discussions,
+* A brief review of relevant background and previous discussions.
 * What has been accomplished since the previous discussion.
 * Important results and how they were interpreted.
 * Problems or uncertainties that have arisen.
 * Proposed solutions or alternative directions.
-* Finish with concrete next steps.
+* Concrete next steps.
 
-Brief written summaries, slides, figures, or notes are often helpful. Yang can not remember every detail from previous discussions, particularly since many projects are active in the group. Maintaining shared notes and sending concise written follow-ups will help preserve continuity and reduce misunderstandings.
+Brief written summaries, slides, figures, or notes are often helpful. Yang cannot remember every detail from previous discussions, particularly when many projects are active in the group. Maintaining shared notes and sending concise written follow-ups will help preserve continuity and reduce misunderstandings.
 
 Members should approach scientific discussions with **optimism, honesty, and an open mind**. Disagreement about scientific questions is normal and often productive. However, criticism should focus on the work and ideas, not the individual.
 
@@ -238,7 +238,7 @@ Authorship and author order should reflect actual contributions and should be di
 
 ## 4.9 Code, Data, and Reproducibility
 
-Research products created in the group should be organized and well documented and archived so that another qualified group member can understand and reproduce the work.
+Research products created in the group should be organized, well documented, and properly archived so that another qualified group member can understand and reproduce the work.
 
 Members are expected to:
 
@@ -250,7 +250,7 @@ Members are expected to:
 * Avoid keeping the only copy of important code or data on a personal computer.
 * Follow licensing, confidentiality, and data-management requirements.
 
-Before leaving the group, members must ensure that their code, data, documentation, and project history are transferred in an organized and usable form. We currently use ResearchDrived provided by UW-Madison to store most of the data.
+Before leaving the group, members must ensure that their code, data, documentation, and project history are transferred in an organized and usable form. We currently use UW–Madison’s ResearchDrive service to store most group research data.
 
 ## 4.10 Research Integrity in Practice and Use of AI Tools
 
@@ -297,8 +297,9 @@ Members should record formal leave when required.
 
 Members should discuss ordinary vacation plans as early as reasonably possible. Longer absences require additional planning, especially when paper deadlines, teaching duties, or collaborative projects are active.
 
-Extended home visits may be possible for international students and postdoctoral researchers. Such visits should normally be discussed several months in advance and must be consistent with University leave policies, appointment obligations, visa requirements, research progress, and available funding. In general, you can save your holiday and vacation time. For every 30 days saved, you will be allowed a home-visiting vacation of as long as ~6 weeks. 
+Extended home visits may be possible for international students and postdoctoral researchers. Such visits should normally be discussed several months in advance and must be consistent with University leave policies, appointment obligations, visa requirements, research progress, and available funding.
 
+For group planning purposes, members who postpone shorter periods of time off may discuss combining that time into an extended home visit. As a general guideline, 30 days of postponed group time off may support a home visit of up to approximately six weeks. This guideline does not create or bank formal leave; each arrangement requires advance discussion with Yang and must follow the official rules associated with the member’s appointment.
 
 ## 5.4 Illness, Family Needs, and Emergencies
 
@@ -345,7 +346,7 @@ The primary student or postdoctoral researcher on a project is normally expected
 
 All coauthors should have a reasonable opportunity to review a manuscript before submission. Comments should be addressed carefully, and major disagreements should be discussed openly.
 
-For better track changes and making comments, we will use either LaTex-like Lyx or Microsoft Word for drafting and editing papers. Papers should be shared via onedrive so that all coauthors have direct access and back-and-forth email is avoided. Naming convention follows "ManuscriptName_version_InitialofEditor".
+To make tracked changes and comments easy to review, the group will generally use LyX or Microsoft Word when drafting and editing papers. Drafts should be shared through OneDrive so that all coauthors have direct access and unnecessary back-and-forth email can be avoided. File names should follow the convention `ManuscriptName_Version_EditorInitials`.
 
 Members should not delay writing until every possible calculation has been completed. Writing often reveals gaps in reasoning and should be considered part of the research process.
 
@@ -366,7 +367,7 @@ Progress should be evaluated through the total development of the student, inclu
 * Collaboration and mentoring.
 * Completion of program requirements.
 
-Students and Yang should discuss long-term goals and professional development at least once every year.
+Students and Yang should discuss long-term goals and professional development at least annually.
 
 ## 8.2 General Graduation Expectations
 
@@ -450,6 +451,6 @@ Before graduating or otherwise leaving, members should:
 
 Members who have left the group remain entitled to appropriate recognition for their contributions. They are also expected to remain reasonably responsive when their assistance is needed to complete papers arising from their work.
 
-The group hopes to maintain positive long-term relationships with its alumni and to continue supporting their professional development after they leave. As funding agencies often require the information of past group members, group members are expected to communicate with Yang about any job position change. Yang will be happy to see your progress.
+The group hopes to maintain positive long-term relationships with its alumni and to continue supporting their professional development after they leave. Because funding agencies often request information about former group members’ career outcomes, alumni are asked to keep Yang informed of significant job changes. Yang will also be happy to hear about your progress.
 
-If you have any question about this document, feel free to discuss with Yang or speak up in the group meeting. This document can be modified and developed with reasonable discussions and approved by Yang.
+This document is intended to help us build a group in which people can do rigorous and creative science while treating one another with honesty, kindness, responsibility, and respect. If anything here is unclear, or if you have an idea that could improve the way we work together, please speak with Yang or raise it at a group meeting. The document will continue to develop through open and thoughtful discussion as the group grows.
