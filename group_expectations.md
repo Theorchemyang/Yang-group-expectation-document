@@ -16,7 +16,7 @@ This is a living document and may be updated as the group develops.
 
 The Yang Group is a theoretical and computational chemistry group with a strong emphasis on theoretical and methodological development.
 
-Our research focuses on developing physically rigorous, computationally practical methods for studying quantum molecular systems, particularly nuclear quantum effects in chemistry and molecular simulations. A major focus is the development and application of the constrained nuclear–electronic orbital framework and related multicomponent quantum-chemistry methods.
+Our current research focuses on developing physically rigorous, computationally practical methods for studying nuclear quantum effects in chemistry and molecular simulations. A major focus is the development and application of the constrained nuclear–electronic orbital framework and related multicomponent quantum-chemistry methods.
 
 Our primary goals are to:
 
@@ -24,17 +24,17 @@ Our primary goals are to:
 * Translate theoretical ideas into robust and accessible computational tools.
 * Apply these methods to scientifically important chemical problems.
 * Understand the underlying physical mechanisms rather than treating computations as black boxes.
-* Train students and postdoctoral researchers to become independent, careful, and creative scientists.
+* Foster the growth and development of students and postdoctoral researchers to become independent, careful, and creative scientists.
 
 Although method development is central to the group, practical applications are equally important. Applications test the strengths and limitations of our methods, reveal new scientific questions, and demonstrate how the methods can be useful to the broader scientific community.
 
-We value physical insight, mathematical rigor, computational reliability, intellectual openness, collaboration, research integrity, and mutual respect.
+We value **physical insight**, **mathematical rigor**, **computational reliability**, **intellectual openness**, **collaboration**, **research integrity**, and **mutual respect**.
 
 ---
 
 # 2. Character and Academic Integrity
 
-Before learning how to become a scholar, one must first learn to be a decent person.
+First thing first, I strongly believe that **before learning how to become a scholar, one must first learn to be a decent person**.
 
 Scientific ability and research productivity are important, but they can never substitute for integrity, kindness, responsibility, and respect for others. Being an upright, kind, and trustworthy person is a basic requirement for membership in the group.
 
@@ -42,21 +42,21 @@ Every group member is expected to be:
 
 * **Honest and principled:** Follow scientific principles even when doing so is inconvenient or leads to an unexpected or unfavorable result.
 * **Upright and trustworthy:** Keep commitments, report work truthfully, admit mistakes, and never take unfair advantage of others.
-* **Kind and respectful:** Treat colleagues, collaborators, staff members, and students with consideration, regardless of their position, background, or level of experience.
+* **Kind and respectful:** Treat colleagues, collaborators, and mentees with consideration, regardless of their position, background, or level of experience.
 * **Responsible:** Take ownership of one’s work and consider how one’s actions affect collaborators and the group as a whole.
 * **Fair:** Give proper credit to others and avoid claiming another person’s ideas, work, or contributions as one’s own.
 
 Academic integrity is a fundamental and nonnegotiable requirement.
 
-Group members must never:
+Group members **must never**:
 
 * Fabricate or falsify results.
-* Manipulate data or figures in a misleading way.
-* Plagiarize text, ideas, code, or results.
-* Misrepresent their own contributions or those of others.
+* Manipulate data or figures in a misleading way.* 
 * Conceal important negative findings, errors, or methodological limitations.
 * Knowingly make scientific claims that are unsupported by evidence.
 * Selectively report results merely because they support a preferred conclusion.
+* Plagiarize text, ideas, code, or results.
+* Misrepresent their own contributions or those of others.
 
 Scientific conclusions must follow from the evidence, not from what we hope or expect the results to show. Unexpected, negative, or inconclusive results should be reported honestly. Such results may still be scientifically meaningful and may reveal important limitations of a method or hypothesis.
 
@@ -74,7 +74,7 @@ No scientific accomplishment can compensate for dishonesty or serious mistreatme
 
 Research in a theory group requires more than learning how to run computational software. Group members should develop a strong understanding of the physical principles, mathematical foundations, numerical methods, and approximations underlying their calculations.
 
-Coursework is therefore an important part of research training, especially during the first two years.
+For graduate students, coursework is therefore an important part of research training, especially during the first two years.
 
 The following courses are generally expected for graduate students:
 
@@ -82,11 +82,14 @@ The following courses are generally expected for graduate students:
 | ------------------------------------------- | ---------------- | ------------------------------------------------------------------ |
 | CHEM 661: Statistical Mechanics             | Year 1           | Strong mastery of the material                                     |
 | CHEM 675: Quantum Mechanics                 | Year 1           | Strong mastery of the material                                     |
-| CHEM 775: Electronic Structure of Molecules | Year 1 or 2      | Strongly recommended, particularly for method-development projects |
+| CHEM 775: Electronic Structure of Molecules | Year 1 or 2      | Strong mastery of the material, particularly for method-development projects |
 
-Students should normally aim for an A-level understanding in these core theory courses. However, grades are not the only measure of understanding or research potential. Course selections may be adjusted based on a student’s previous training, research direction, teaching responsibilities, and discussions with Yang.
+Students should normally aim for an A-level understanding in these core theory courses. However, grades are not the only measure of understanding or research potential.
 
 Depending on the project, additional preparation in mathematics, physics, computer science, numerical analysis, machine learning, or scientific programming may be recommended.
+
+Course selections may be adjusted based on a student’s previous training, research direction, teaching responsibilities, and discussions with Yang.
+
 
 ## 3.2 Computational Skills
 
